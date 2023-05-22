@@ -28,5 +28,6 @@ int main(){
         default:
         printf("Invalid Weekday Number");
     }
+    printf("\n");
     return 0;
 }
